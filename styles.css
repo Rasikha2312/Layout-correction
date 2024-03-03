@@ -1,0 +1,23 @@
+body{
+    background-color: lightpink;
+}
+
+h1{
+    border: 15px solid white;
+    
+    
+}
+
+main p{
+    color: darkblue;
+    font-size: 20px;
+}
+
+main h2{
+    font-size: 30px;
+}
+
+nav a{
+    font-size: 30px;
+    padding: 40px;
+}
